@@ -1,4 +1,4 @@
-Hi! I’m @hkwheat, a computer science student at the University of Texas at Dallas. I've completed software engineering internships at L3Harris and EOG Resources, and I'm also a soccer referee for various youth leagues in the Dallas-Fort Worth area. In my spare time, I enjoy trail running, staring at cars I can't afford, and composing music for guitar and piano.
+Hi! I’m @hkwheat, a computer science master's student at the University of Texas at Dallas. I'm also a soccer referee for various youth leagues in the Dallas-Fort Worth area. In my spare time, I enjoy trail running, staring at cars I can't afford, and composing music for guitar and piano.
 
 You can find me on LinkedIn at www.linkedin.com/in/haley-wheatley/
 
